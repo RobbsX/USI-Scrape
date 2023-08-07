@@ -1,16 +1,21 @@
 This repo scrapes data from all sport courses of the [USI website](usi.at). 
 
 ## Goal
-For creating an own USI course, it is important to know the structure of other courses. With that, I wanted to find out at what time and day, at what price, and with how many capacity I should calculate, and if a second course makes sense when usage of the room is low. This was the perfect opportunity to web scrape! 
+For creating an own USI course, it is important to know the structure of other courses. With that, I wanted to find out at what time, at what price, and with how many capacity I should calculate, and if a second course makes sense when usage of the room is low. This was the perfect opportunity to web scrape! 
+
 
 ## Result
 Time: Our new sport course was set from 18:15 to 19:45 - which payed of as there were many bookings! A trail course from 11:30 to 13:00 did not take place as there were too few bookings, as expected. 
 In general, the worst times to make a course are: 6:43 to 7:42, 11:30 to 12:24, and 13:24 to 14:21. Notably, courses from 15:18 to 21:00 are well booked, especially from 19:06 to 20:03. 
 
-Price I: EUR 79 was taken because it had a good balance between price per lesson and effort for this kind of course. This set the course in the upper 25% quantile. 
+Price I: EUR 79 was taken because it had a good balance between price per lesson and effort for this kind of course, and at the location. This set the course in the upper 25% quantile. 
+
+Capacity and expected bookings: The limit was set to 30 people, with an expected booking number of 23. This expectation was even surpassed! 
+
 
 ## Further Steps
 I would have liked to get the number of lessons per course to make the pricing even more precise. However, this data is, if available, not sturctured throughout the website. 
+
 
 ## Approach
 This is a screenshot of the list of the sport courses, as well as an example course, to visualise the scraping source.
