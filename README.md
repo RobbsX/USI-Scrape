@@ -4,7 +4,9 @@ This repo scrapes data from all sport courses of the [USI website](usi.at).
 For creating an own USI course, it is important to know the structure of other courses. With that, I wanted to find out at what time and day, at what price, and with how many capacity I should calculate, and if a second course makes sense when usage of the room is low. This was the perfect opportunity to web scrape! 
 
 ## Result
-Time: The worst times to make a course are: 6:43 to 7:42, 11:30 to 12:24, and 13:24 to 14:21. Notably, courses from 15:18 to 21:00 were well booked, especially from 19:06 to 20:03. Thus, the course was set from 18:15 to 19:45 - which payed of as there were many bookings! A trail course from 11:30 to 13:00 did not take place as there were too few bookings, as expected. 
+Time: Our new sport course was set from 18:15 to 19:45 - which payed of as there were many bookings! A trail course from 11:30 to 13:00 did not take place as there were too few bookings, as expected. 
+In general, the worst times to make a course are: 6:43 to 7:42, 11:30 to 12:24, and 13:24 to 14:21. Notably, courses from 15:18 to 21:00 are well booked, especially from 19:06 to 20:03. 
+
 Price I: EUR 79 was taken because it had a good balance between price per lesson and effort for this kind of course. This set the course in the upper 25% quantile. 
 
 ## Further Steps
