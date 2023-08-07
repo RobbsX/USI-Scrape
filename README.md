@@ -1,4 +1,3 @@
-<img width="2560" alt="USI_Course_List" src="https://github.com/RobbsX/USI-Scrape/assets/79597633/e0fb8807-ed75-4d88-9c90-d57749efe1a3"># USI-Scrape
 This repo scrapes data from all sport courses of the [USI website](usi.at). 
 
 ## Goal
