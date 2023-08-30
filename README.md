@@ -7,12 +7,15 @@ For creating an own USI course, it is important to know the structure of other c
 
 
 ## Result
-Time: Our new sport course was set from 18:15 to 19:45 - which payed of as there were many bookings! A trail course from 11:30 to 13:00 did not take place as there were too few bookings, as expected. 
-In general, the worst times to make a course are: 6:43 to 7:42, 11:30 to 12:24, and 13:24 to 14:21. Notably, courses from 15:18 to 21:00 are well booked, especially from 19:06 to 20:03. 
+*The scrape allowed me to make an informed decision for the course parameters. My expectations were surpassed! In the first run, we were almost booked out.*
+
+_Details_
+
+Time: Our new sport course was set from 18:15 to 19:45 - which payed of as there were many bookings! A trail course from 11:30 to 13:00 did not take place as there were too few bookings, as expected. In general, the worst times to make a course are: 6:43 to 7:42, 11:30 to 12:24, and 13:24 to 14:21. Notably, courses from 15:18 to 21:00 are well booked, especially from 19:06 to 20:03. 
 
 Price I: EUR 79 was taken because it had a good balance between price per lesson and effort for this kind of course, and at the location. This set the course in the upper 25% quantile. 
 
-Capacity and expected bookings: The limit was set to 30 people, with an expected booking number of 23. This expectation was even surpassed! 
+Capacity and expected bookings: The limit was set to 30 people, with an expected booking number of 28. 
 
 
 ## Further Steps
