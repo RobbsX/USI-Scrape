@@ -1,5 +1,7 @@
 This repo scrapes data from all sport courses of the [USI website](usi.at). 
 
+Python, Selenium, BeautifulSoup4, matplotlib
+
 ## Goal
 For creating an own USI course, it is important to know the structure of other courses. With that, I wanted to find out at what time, at what price, and with how many capacity I should calculate, and if a second course makes sense when usage of the room is low. This was the perfect opportunity to web scrape! 
 
